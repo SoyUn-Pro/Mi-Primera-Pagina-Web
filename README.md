@@ -1,19 +1,21 @@
 # Mi Primera Página Web
 
-***
 ## Sesiones
 * [Sesión 1](https://youtu.be/kLV4j3JBPXc) - lunes 2 de mayo
 * [Sesión 2](https://youtu.be/NiKuFOA7J9c) - miércoles 4 de mayo
 * [Sesión 3](https://youtu.be/VLpUr6Pwa3M) - viernes 6 de mayo
+
 
 ## Actividades
 1. **Instalación de Visual Studio Code (VSC):**
 	
 	Tomar una captura de pantalla de VSC instalado en el equipo, junto con algún Theme y/o conjunto de íconos instalados a través de las Extensiones.
 
+
 2. **Primera versión de la página web:**
 	
 	Usar VSC para crear la estructura básica de una página web y a través de Filezilla subirla al servidor de [SoyUn.Pro](https://SoyUn.Pro).
+
 
 3. **Complementando la Actividad 2:**
 	
