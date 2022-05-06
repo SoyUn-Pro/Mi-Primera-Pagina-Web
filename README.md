@@ -20,3 +20,19 @@
 3. **Complementando la Actividad 2:**
 	
 	Usar VSC para agregar etiquetas al <head> que permitan mostrar un título, conocer el Autor, Descripción y Palabras clave de nuestra página, así como un ícono que ayude a identificarla de las pestañas que se encuentran abiertas en el navegador. Además, establecerle un color de tema que se muestre en los navegadores Google Chrome en sistemas operativos Android.
+
+## Recursos
+### Software
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Filezilla](https://filezilla-project.org/)
+
+### Extensiones para Visual Studio Code
+* [LubnaDev-Theme](https://marketplace.visualstudio.com/items?itemName=lubnadev.lubnadev-theme)
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+### Otros
+* [Favicon.ico & App Icon Generator](https://www.favicon-generator.org/)
+* [Adobe Color](https://color.adobe.com)
